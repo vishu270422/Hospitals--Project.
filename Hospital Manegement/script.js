@@ -1,4 +1,4 @@
-document.addEventListener("ContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
 
     const learnMoreButton = document.querySelector(".btn.btn-white");
     if (learnMoreButton) {
